@@ -1,3 +1,3 @@
 <?php
-    echo 'Nguyễn Tấn Kha'
+    echo 'Nguyễn Tấn Kha';
 ?>
